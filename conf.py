@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/Blog/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "diverseforest/Blog@gh-pages"
 }
 
 # 站点设置
@@ -69,11 +69,11 @@ social_links = [
         "url": "https://github.com/diverseforest",
         "icon": "gi gi-github"
     },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
-    }
+    #{
+    #    "name": "Weibo",
+    #    "url": "https://weibo.com/5245109677/",
+    #    "icon": "gi gi-weibo"
+    #}
 ]
 
 head_addon = r'''
