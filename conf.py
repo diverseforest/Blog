@@ -26,18 +26,18 @@ author = "jizenghui"
 email = "diverseforest@outlook.com"
 author_homepage = "https://www.diverseforest.press"
 description = "试图以真诚的文字为途径，呼朋唤友地长出一片参差多态的小森林"
-key_words = ['参差森林', 'diverseforest', 'Galileo', 'newsletter']
+key_words = ['参差森林', 'diverseforest', 'blog', 'newsletter']
 language = 'zh-CN'
 external_links = [
+    #{
+    #    "name": "Maverick",
+    #    "url": "https://github.com/AlanDecode/Maverick",
+    #    "brief": "🏄‍ Go My Own Way."
+    #},
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "newsletter",
+        "name": "Newsletter",
         "url": "https://diversity.zhubai.love",
-        "brief": "Newsletter"
+        "brief": "参差森林"
     }
 ]
 nav = [
