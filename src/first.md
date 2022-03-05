@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 从贫瘠的土地出发，目标是参差森林
-slug: 20220126
+slug: first
 date: 2022-01-25 10:00
 status: publish
 author: jizenghui
