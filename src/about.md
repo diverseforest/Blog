@@ -19,6 +19,6 @@ tags:
 
 Email: diverseforest#outlook.com (replace # with @)
 
-#Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[Diverseforest](https://t.me/diverseforest)
 
 
