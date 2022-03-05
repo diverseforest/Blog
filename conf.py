@@ -35,7 +35,7 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三計劃",
+        "name": "33計劃",
         "url": "https://www.imalan.cn",
         "brief": "熊猫小A的主页。"
     }
