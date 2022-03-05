@@ -21,12 +21,12 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "参差森林 Diverse Forest"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+site_build_date = "2022-03-05T10:00+08:00"
+author = "jizenghui"
+email = "diverseforest@outlook.com"
+author_homepage = "https://www.diverseforest.press"
+description = "试图以真诚的文字为途径，呼朋唤友地长出一片参差多态的小森林"
+key_words = ['参差森林', 'diverseforest', 'Galileo', 'newsletter']
 language = 'zh-CN'
 external_links = [
     {
