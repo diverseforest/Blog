@@ -35,9 +35,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "33計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "newsletter",
+        "url": "https://diversity.zhubai.love",
+        "brief": "Newsletter"
     }
 ]
 nav = [
@@ -61,12 +61,12 @@ nav = [
 social_links = [
     {
         "name": "Twiter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/diverseforest",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/diverseforest",
         "icon": "gi gi-github"
     },
     {
