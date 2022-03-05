@@ -2,9 +2,9 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2022/03/05 10:00:00
 status: publish
-author: AlanDecode
+author: jizenghui
 categories: 
   - Maverick
   - Dev
@@ -17,6 +17,8 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: diverseforest#outlook.com (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+#Telegram：[AlanDecode](https://t.me/alandecode)
+
+
