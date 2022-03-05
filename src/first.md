@@ -1,15 +1,14 @@
 ---
 layout: post
-title: 从贫瘠的土地出发，目标是参差森林
+title: Newsletter001
 slug: first
 date: 2022-01-25 10:00
 status: publish
 author: jizenghui
 categories: 
-  - Maverick
+  - Newsletter
 tags:
   - Newsletter
-  - 
 excerpt: 希望能从贫瘠的土地上开始，慢慢长出一片参差多态的小森林。
 ---
 
