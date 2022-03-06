@@ -21,7 +21,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "参差森林 DiverseForest"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2022-03-05T10:00+08:00"
+site_build_date = "2022-01-25T10:00+08:00"
 author = "jizenghui"
 email = "diverseforest@outlook.com"
 author_homepage = "https://www.diverseforest.press"
