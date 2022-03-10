@@ -12,6 +12,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/20220302/</loc>
+    <lastmod>2022-03-02</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/20220224/</loc>
+    <lastmod>2022-02-24</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/20220216/</loc>
+    <lastmod>2022-02-16</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/20220209/</loc>
     <lastmod>2022-02-09</lastmod>
     <changefreq>always</changefreq>
